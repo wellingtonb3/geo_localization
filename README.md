@@ -3,13 +3,11 @@
 
 Este projeto é um **Agente de Busca de Precisão** que une Inteligência Artificial Generativa com serviços de geolocalização. O sistema foi projetado para resolver o problema de "ruído" em buscas urbanas, garantindo que apenas locais que correspondam exatamente à intenção do usuário sejam exibidos no mapa.
 
-## 📺 Demonstração em Vídeo
+## 📺 Demonstração
 
-Abaixo, uma demonstração do Agente interpretando comandos em linguagem natural e filtrando resultados em um raio de 5km:
+Abaixo, o Agente interpretando comandos em linguagem natural e filtrando resultados em um raio de 3km:
 
-https://github.com/wellingtonb3/geo_localization/demo.mp4
-
-*(Caso o vídeo não carregue automaticamente, certifique-se de que o arquivo `demo.mp4` está na raiz do projeto).*
+![Agente Localização](/img/Dashboard.png)
 
 ---
 
@@ -30,6 +28,8 @@ https://github.com/wellingtonb3/geo_localization/demo.mp4
 - **Cloud:** Oracle Cloud Infrastructure (OCI) - Instância Ubuntu
 - **Bibliotecas Principais:** 
   - `streamlit`, `folium`, `geopy`, `brazilcep`, `python-dotenv`.
+ 
+![Agente Localização](/img/Mapa.png)
 
 ## 📦 Como Instalar e Rodar
 
