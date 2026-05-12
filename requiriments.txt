@@ -1,0 +1,7 @@
+streamlit
+brazilcep
+geopy
+folium
+streamlit-folium
+openai
+python-dotenv
